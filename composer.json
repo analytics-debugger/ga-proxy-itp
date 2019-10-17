@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "layershifter/tld-extract": "^2.0"
+    }
+}
